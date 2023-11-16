@@ -1,1 +1,0 @@
-../../test/e2e/permissionlessrpc_test.go

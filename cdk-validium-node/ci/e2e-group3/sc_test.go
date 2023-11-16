@@ -1,1 +1,0 @@
-../../test/e2e/sc_test.go
