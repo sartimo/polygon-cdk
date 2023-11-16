@@ -1,0 +1,21 @@
+[submodule "cdk-validium-node"]
+	path = cdk-validium-node
+	url = https://github.com/0xPolygon/cdk-validium-node
+[submodule "cdk-validium-contracts"]
+	path = cdk-validium-contracts
+	url = https://github.com/0xPolygon/cdk-validium-contracts
+[submodule "cdk-data-availability"]
+	path = cdk-data-availability
+	url = https://github.com/0xPolygon/cdk-data-availability
+[submodule "zkevm-prover"]
+	path = zkevm-prover
+	url = https://github.com/0xPolygonHermez/zkevm-prover
+[submodule "zkevm-bridge-service"]
+	path = zkevm-bridge-service
+	url = https://github.com/0xPolygonHermez/zkevm-bridge-service
+[submodule "zkevm-bridge-ui"]
+	path = zkevm-bridge-ui
+	url = https://github.com/0xPolygonHermez/zkevm-bridge-ui
+[submodule "zkevm-explorer"]
+	path = zkevm-explorer
+	url = https://github.com/0xPolygonHermez/blockscout/
